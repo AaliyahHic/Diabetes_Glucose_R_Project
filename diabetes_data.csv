@@ -1,0 +1,10 @@
+Date,Time,TimeOfDay,BloodGlucose,Carbs,InsulinUnits,Notes
+2025-01-01,07:30,Morning,180,30,6,Woke up late
+2025-01-01,13:15,Afternoon,145,45,5,Pasta for lunch
+2025-01-01,21:05,Night,210,20,7,Snack before bed
+2025-01-02,08:00,Morning,165,25,6,Walked 10 minutes
+2025-01-02,12:45,Afternoon,150,50,5,Salad + bread
+2025-01-02,20:30,Night,195,30,6,Ate late
+2025-01-03,07:20,Morning,172,20,5,Felt stressed
+2025-01-03,13:00,Afternoon,160,40,5,Fast food
+2025-01-03,21:10,Night,220,35,7,Dessert + snack
